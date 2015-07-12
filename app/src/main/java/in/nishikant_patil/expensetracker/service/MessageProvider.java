@@ -9,7 +9,7 @@ import java.util.List;
 
 import in.nishikant_patil.expensetracker.constants.MessageCursorConstants;
 import in.nishikant_patil.expensetracker.model.Message;
-import in.nishikant_patil.expensetracker.model.MessageType;
+import in.nishikant_patil.expensetracker.enums.MessageType;
 import in.nishikant_patil.expensetracker.processor.ExpenseProcessor;
 
 /**

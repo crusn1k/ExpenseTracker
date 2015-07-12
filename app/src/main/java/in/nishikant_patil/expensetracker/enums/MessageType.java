@@ -1,4 +1,4 @@
-package in.nishikant_patil.expensetracker.model;
+package in.nishikant_patil.expensetracker.enums;
 
 /**
  * Created by Nishikant on 7/12/2015.

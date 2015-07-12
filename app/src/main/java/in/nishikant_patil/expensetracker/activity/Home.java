@@ -11,7 +11,7 @@ import java.util.List;
 import in.nishikant_patil.expensetracker.R;
 import in.nishikant_patil.expensetracker.adapter.MessageAdapter;
 import in.nishikant_patil.expensetracker.model.Message;
-import in.nishikant_patil.expensetracker.model.MessageType;
+import in.nishikant_patil.expensetracker.enums.MessageType;
 import in.nishikant_patil.expensetracker.service.MessageProvider;
 
 
