@@ -31,6 +31,6 @@ public class ExpenseProcessorTest {
     @Test
     public void testFail(){
         testMessage.setContent("blah blah credited blah blah INR 0.");
-        Assert.assertTrue(ExpenseProcessor.process(testMessage));
+        Assert.assertFalse(ExpenseProcessor.process(testMessage));
     }
 }
